@@ -1,21 +1,16 @@
 # Juniper Ridge: Monorepo · Cloudflare
 
-> **This is a template, not a repository.** Copy it out and prepare it before an eval (steps below).
-> Nothing here is deployed.
-
 A monorepo with three apps on **Cloudflare**, with preview links **public**. Static Vite +
 TypeScript, no framework. The page reads a live list from the shared Supabase test project.
 Row in the support matrix: impeccable-reviews#302.
 
 ## Deployment links
 
-Filled in at prep time.
-
 | App | Folder | Production | Preview gate |
 |---|---|---|---|
-| _app one_ | `apps/<app>` | _not deployed_ | no |
-| _app two_ | `apps/<app>` | _not deployed_ | no |
-| _app three_ | `apps/<app>` | _not deployed_ | no |
+| Sage | `apps/sage-k8c` | https://juniper-ridge-p0es-sage-k8c.pages.dev | no |
+| Cedar | `apps/cedar-n4u` | https://juniper-ridge-p0es-cedar-n4u.pages.dev | no |
+| Rook | `apps/rook-d5p` | https://juniper-ridge-p0es-rook-d5p.pages.dev | no |
 
 ## Names
 
